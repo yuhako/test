@@ -10,7 +10,7 @@ $(function(){
 });
 
 function hurue(){
-    var karako = new Audio('karaoke.ma4');
+    var karako = new Audio('karaoke.m4a');
     karako.play();
 }
 
