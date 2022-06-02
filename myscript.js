@@ -10,7 +10,8 @@ $(function(){
 });
 
 function hurue(){
-    window.navigator.vibrate([200,100,200,100,200,100,200,100,200,100,200,100,200,100,200,100,])
+    var karako = new Audio('karaoke.ma4');
+    karako.play();
 }
 
 $(function(){
