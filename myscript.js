@@ -1,13 +1,13 @@
-alert('まつしょの帰り待つっしょ');
+alert('まつしょはざこ？');
 
-alert('おまえのまけ');
+alert('まつしょはかわいい？');
 
-alert('おまえのまけ');
+alert('まつしょはかっこいい？');
 
-var result=prompt('合言葉をいえ');
+var result=prompt('こたえは？');
 
-if( result==='しまさきくそざこなめくじ'){
-  alert('おまえは同士')}
-else{alert('おまえもくそざこなめくじ')}
+if( result==='まつしょかわいい'){
+  alert('どうぞ！お入りください')}
+else{alert('パスワード違うけどまあ入っていいよ！')}
 
 
